@@ -1,5 +1,3 @@
-FOSSASIA Network
+FOSSASIA.net
 
-Join the network!
-
-http://fossasia.net
+Join us: http://fossasia.net
